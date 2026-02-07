@@ -45,3 +45,4 @@ This project demonstrates how a simple machine learning model can be trained on 
    python model.py
 
 5. Enter house details to get the predicted price.
+6. Made with ❤️ by Mahmood
