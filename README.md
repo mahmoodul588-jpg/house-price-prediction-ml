@@ -30,19 +30,27 @@ This project demonstrates how a simple machine learning model can be trained on 
 ## 📂 Project Structure
 ---
 
-## ▶️ How to Run the Project
+## ▶️ How to Run the Project (Beginner Friendly)
 
-1. Clone the repository:
-   git clone https://github.com/mahmoodul588/house-price-prediction-ml.git
+### Method 1: Run Directly (Easy Way)
 
-2. Go to the project folder:
-   cd house-price-prediction-ml
+1. Make sure Python is installed  
+   Download from: https://www.python.org/downloads/
 
-3. Install required libraries:
+2. Download this repository as ZIP  
+   Link: https://github.com/mahmoodul588/house-price-prediction-ml  
+   Click **Code → Download ZIP**
+
+3. Extract the ZIP file
+
+4. Open terminal / command prompt inside the project folder
+
+
+5. Install required libraries:
    pip install -r requirements.txt
 
-4. Run the model:
+6. Run the model:
    python model.py
 
-5. Enter house details to get the predicted price.
-6. Made with ❤️ by Mahmood
+7. Enter house details to get the predicted price.
+8. Made with ❤️ by Mahmood
